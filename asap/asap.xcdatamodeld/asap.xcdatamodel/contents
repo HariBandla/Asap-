@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Order_List" representedClassName="Order_List" syncable="YES" codeGenerationType="class">
+        <attribute name="addressOfResturent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="branch_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageOfResturentURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameOfResturent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_quantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_weight" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vendor_id" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Order_List" positionX="-54" positionY="-9" width="128" height="180"/>
+    </elements>
+</model>
